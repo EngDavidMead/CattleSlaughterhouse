@@ -1,0 +1,60 @@
+Tekla Structures 2017 Service Pack 3
+
+
+********************************************
+Total selected objects:             1490
+Successful exports:                 3200
+Unsuccessful exports:            ** 6 **
+----------------------------------+---------
+Exported objects
+ Beams                              188
+ Columns                            41
+ Footings                           112
+ Members                            18
+ Plates                             71
+ Slabs                              2
+ Bolt groups                        337
+ Reinforcing bar groups             580
+ Grids                              5
+ DiscreteAccessories                714
+ Failed building elements           6
+----------------------------------+---------
+Container objects:
+ Assemblies                         418 (2064)
+--------------------------------------------
+ -IfcProject        Project 
+   -IfcSite           Undefined 
+     -IfcBuilding       Undefined (1494)
+       -IfcBuildingStorey Undefined (1489)
+--------------------------------------------
+Included property set definition files:
+ pset1: C:\TeklaStructuresModels\Genima fabrica de ulei cu panouri orizontale\AdditionalPSets\DesignWorkflowInformation.xml
+ pset2: C:\ProgramData\Tekla Structures\2017\environments\common\inp\IfcPropertySetConfigurations_CV2.xml
+********************************************
+
+* Pay attention to the following 6 object(s) *****************
+ 1: 6 element(s) not created.
+ 7297166, 7299797, 7300503, 7300881, 7301441, 7301634
+
+***************************************************************
+Details:
++-------------------------------------------
+ID: 7297166 TS: ID9511DD99-5C1B-48AE-805A-05CB7F8799B4, IFC: 2L4TsPN1j8he1Q1Sj$Xvcq
+ Error 1: Failed to create element
++-------------------------------------------
+ID: 7299797 TS: ID468962FC-756E-4F34-8833-33C5B629BD61, IFC: 16YMByTMvFD8WpCyMsARrX
+ Error 1: Failed to create element
++-------------------------------------------
+ID: 7300503 TS: ID0CEE2E66-7A4B-45EA-8AD4-B4926D0B80D8, IFC: 0CxYvcUaj5wehKj99j2u3O
+ Error 1: Failed to create element
++-------------------------------------------
+ID: 7300881 TS: IDFA42C43A-946F-454B-9704-4AD03B11CD39, IFC: 3wGiGwb6z5IvS4Ij0x4Sqv
+ Error 1: Failed to create element
++-------------------------------------------
+ID: 7301441 TS: ID464AB1B7-77C3-4B69-A9B0-976946476B8C, IFC: 16Ih6tTyDBQQcmbsb6HskC
+ Error 1: Failed to create element
++-------------------------------------------
+ID: 7301634 TS: IDB49D5966-6E36-4FB8-A197-AB7B33C6D452, IFC: 2qdLbcRZPFkA6NgtipnjHI
+ Error 1: Failed to create element
+
+Elapsed time: 10.0 seconds.

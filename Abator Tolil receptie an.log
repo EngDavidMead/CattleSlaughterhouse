@@ -1,0 +1,38 @@
+Tekla Structures 2017 Service Pack 3
+
+
+********************************************
+Total selected objects:             3795
+Included assembly sub parts         618
+Successful exports:                 6609
+Untransferrable objects selected:   572
+----------------------------------+---------
+Exported objects
+ Beams                              401
+ Columns                            32
+ Footings                           36
+ Plates                             289
+ Slabs                              2
+ Walls                              19
+ Bolt groups                        1076
+ DiscreteAccessories                1986
+----------------------------------+---------
+Container objects:
+ Assemblies                         782 (3889)
+----------------------------------+---------
+Untransferrable selections                  
+ Connection                         83
+ Detail                             71
+ Welding                            418
+--------------------------------------------
+ -IfcProject        Project 
+   -IfcSite           Undefined 
+     -IfcBuilding       Undefined (4413)
+       -IfcBuildingStorey Undefined (4413)
+--------------------------------------------
+Included property set definition files:
+ pset1: C:\TeklaStructuresModels\Abator Tolil -Receptie Animale-Partea 1\AdditionalPSets\DesignWorkflowInformation.xml
+ pset2: C:\ProgramData\Tekla Structures\2017\environments\common\inp\IfcPropertySetConfigurations_CV2.xml
+********************************************
+
+Elapsed time: 9.0 seconds.
